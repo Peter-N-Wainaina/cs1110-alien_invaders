@@ -1,0 +1,5 @@
+Peter Ng'ang'a Wainaina pnw6 and Iman Kiio iwk4 6th December 2021
+
+1. Text displaying player score and remaining lives
+2.Game restart when player loses, or wins. We created a new state between Complete and Inactive, and displayed text telling the player a new game was about to start.
+3.The ship "wraps around the screen". If it goes beyond the left edge, it "reappears on the right " and vice-versa.
